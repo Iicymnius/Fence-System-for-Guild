@@ -1,3 +1,7 @@
+#add;
+
+import time
+
 #find;
 
 class GameWindow(ui.ScriptWindow):
